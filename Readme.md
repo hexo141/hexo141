@@ -6,10 +6,6 @@
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=hexo141&show_icons=true&theme=tokyonight)  
 
 
-Jackal Client has obtained [![Stars](https://img.shields.io/github/stars/hexo141/JackalClient?style=flat-square&color=yellow&label=Star)](../../stargazers) stars!
-
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=3494361276877525&theme=dark)  ![c**n统计](https://stats.justsong.cn/api/csdn/?id=cjz2005&theme=dark)
-
 
 ![RandomPicture](https://img.paulzzh.com/touhou/random)
 
